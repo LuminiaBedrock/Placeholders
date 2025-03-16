@@ -9,8 +9,5 @@
         <module name="Placeholders" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Placeholders" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
